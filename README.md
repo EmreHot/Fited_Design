@@ -9,3 +9,4 @@ This locking mechanism is designed to be used as an external clip on a flexible 
 Tasarımın Açıklaması
 Bu tasarımı yaparken en öne gözettiğim husus çok basit uygulaması ve üretimi kolay bir tasarım yapmaktı ayrıca kullanılan bu kilit mekanizmasının insanın günlük hayatındaki olumsuz etkisini minimuma indirmekti.
 Bu sebepten ötürü bir klips yardımı ile iki korseyi birbirine kenar kısımlarından tutacak bir tasarım geliştirdim. 
+Solidworks dosyaları için zip dosyasının içindeki solid_design dosyasına bakabilirsiniz
